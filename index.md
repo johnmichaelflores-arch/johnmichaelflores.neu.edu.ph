@@ -1,6 +1,6 @@
 # Personal Digital Portfolio
 
-## Joe S. Dominguez
+## John Michael L Flores
 
 Welcome to my Personal Knowledge System (PKS) Portfolio. This website showcases my academic journey, skills, and projects as a BSIT student at New Era University.
 
