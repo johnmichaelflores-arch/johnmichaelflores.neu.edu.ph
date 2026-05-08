@@ -25,8 +25,10 @@ It serves as a documentation of my growth and progress throughout the course.
 
 ## Skills Overview
 
-- HTML, CSS, JavaScript
-- React JS, Vue JS, Next JS
+- Basic web dev
+- Design & Creative
+- Soft Skills
+- Visual & Audio Arts
 - Basic Cybersecurity Knowledge
 - Mobile App Development
 
