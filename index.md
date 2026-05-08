@@ -36,7 +36,12 @@ It serves as a documentation of my growth and progress throughout the course.
 
 ## Goals
 
-My goal is to improve my technical skills and become a competent developer capable of building secure and efficient systems.
+My primary objective is to bridge the gap between **innovative design** and security**. I aim to:
+
+* **Develop:** Build seamless, high-performance web and mobile applications that prioritize user experience.
+* **Secure:** Integrate a security-first mindset into every project, ensuring that systems are resilient against vulnerabilities.
+* **Innovate:** Leverage my creative background to solve complex technical problems with elegant, digital solutions.
+* **Grow:** Continuously evolve as a developer by staying at the forefront of emerging technologies and industry best practices.
 
 ---
 
