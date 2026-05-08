@@ -1,40 +1,58 @@
-# Personal Digital Portfolio
+# 👨‍💻 About Me
 
-## John Michael L. Flores | BSIT Student @ NEU
+## John Michael L. Flores
 
----
-
-### About Me
-
-I am a BSIT student at **New Era University** with a strong interest in building secure and efficient systems. I specialize in web and mobile development, with a growing passion for cybersecurity.
-
-### 🛠️ Technical Stack
-
-| Category     | Tools/Skills                                     |
-| :----------- | :----------------------------------------------- |
-| **Web**      | HTML, CSS, JavaScript, React JS, Next JS, Vue JS |
-| **Mobile**   | Android Development, Mobile UI Design            |
-| **Backend**  | Firebase, Git & GitHub                           |
-| **Security** | Basic Cybersecurity, Ethical Hacking             |
+**BSIT Student @ New Era University**
 
 ---
 
-### 📂 Featured Projects
+### 📖 Professional Profile
 
-- **Capstone Project:** _Real-Time Work Order and Task Assignment System_ - A system designed for efficient task management and real-time tracking.
-- **Android App:** _Student GPA Calculator_ - A handy tool for students to track their academic performance.
+I am a versatile developer dedicated to building seamless **Web and Mobile applications** with a security-first mindset. By bridging the gap between **Visual Arts** and technical logic, I create digital solutions that are not only aesthetically engaging but also highly functional.
 
----
-
-### 📝 Reflection
-
-Throughout the PKS course, I have learned the value of systematic documentation. This portfolio is not just a requirement but a testament to my growth in using industry-standard tools like **GitHub** and **VS Code**. It taught me that clean code should always be paired with clean documentation.
+Beyond just building features, I integrate **Cybersecurity** knowledge into my workflow to ensure that the applications I develop are resilient and secure. Supported by strong **Soft Skills**, I thrive in collaborative environments where innovation and problem-solving meet.
 
 ---
 
-## 🌐 Connect with Me
+### 🛠️ Technical Stack & Expertise
 
-- **GitHub:** [github.com/djoesanje](https://github.com/johnmichaelflores-arch)
-- **Institutional Email:** johnmichael.flores@neu.edu.ph
+| Category               | Tools & Technologies                                           |
+| :--------------------- | :------------------------------------------------------------- |
+| **Web Development**    | HTML5, CSS3, JavaScript, React JS, Next JS, Vue JS             |
+| **Mobile Development** | Android Development, Mobile UI/UX Design                       |
+| **Backend & Tools**    | Firebase, Git & GitHub, VS Code                                |
+| **Cybersecurity**      | Basic Penetration Testing, Ethical Hacking, Security Awareness |
+| **Creative Arts**      | Visual & Audio Arts, Digital UI Design                         |
 
-![Profile](images/21-10891-176.jpg)
+---
+
+### 🚀 Key Projects
+
+#### 🛠️ Real-Time Work Order and Task Assignment System
+
+- **Role:** Lead Developer / Documentation
+- **Description:** A capstone project designed for efficient task management and real-time tracking using modern web technologies.
+- **Key Feature:** Real-time updates and secure role-based access.
+
+#### 📱 Student GPA Calculator
+
+- **Role:** Mobile Developer
+- **Description:** An Android-based application that helps students track their academic performance with an intuitive UI.
+
+---
+
+### 💡 Philosophy & Growth
+
+Throughout my journey in the **College of Informatics and Computing Studies**, I have learned that great software is a balance of **usability**, **security**, and **documentation**. This portfolio serves as a testament to my commitment to industry standards, utilizing tools like **GitHub** to maintain transparency and collaboration in my code.
+
+---
+
+### 🤝 Let's Connect!
+
+- **GitHub:** [github.com/johnmichaelflores-arch](https://github.com/johnmichaelflores-arch)
+- **Email:** [johnmichael.flores@neu.edu.ph](mailto:johnmichael.flores@neu.edu.ph)
+
+<!-- <p align="center">
+  <img src="images/21-10891-176.jpg" width="200" style="border-radius: 10px;">
+</p>
+ -->
