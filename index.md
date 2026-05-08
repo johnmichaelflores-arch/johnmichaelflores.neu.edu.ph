@@ -1,7 +1,5 @@
 # Personal Digital Portfolio
 
-## John Michael L. Flores | BSIT Student @ NEU
-
 ---
 
 ###  About Me
