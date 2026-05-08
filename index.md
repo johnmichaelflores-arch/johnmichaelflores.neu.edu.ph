@@ -1,48 +1,45 @@
 # Personal Digital Portfolio
 
-## John Michael L Flores
-
-Welcome to my Personal Knowledge System (PKS) Portfolio. This website showcases my academic journey, skills, and projects as a BSIT student at New Era University.
+## John Michael L. Flores | BSIT Student @ NEU
 
 ---
 
-## About This Portfolio
+### 👤 About Me
 
-I am a versatile developer dedicated to building seamless Web and Mobile applications with a security-first mindset. By bridging the gap between Visual Arts and technical logic, I create digital solutions that are not only aesthetically engaging but also highly functional. Beyond development, I integrate my knowledge of Cybersecurity into my workflow to ensure every project is resilient and secure. With a strong foundation in design and effective Soft Skills, I thrive in collaborative environments where innovation and problem-solving meet.
-
-It serves as a documentation of my growth and progress throughout the course.
-
----
-
-## Quick Profile
-
-- 🎓 BSIT Student
-- 🏫 New Era University
-- 💻 Focus: Web Development & Cybersecurity
-- 📱 Interested in Mobile Application Development
+<table align="center">
+  <tr>
+    <td>
+      <img src="images/21-10891-176.jpg" width="180" style="border-radius: 50%;">
+    </td>
+    <td>
+      I am a versatile developer dedicated to building seamless <b>Web and Mobile applications</b> with a security-first mindset. By bridging the gap between <b>Visual Arts</b> and technical logic, I create digital solutions that are not only aesthetically engaging but also highly functional. Supported by strong <b>Soft Skills</b>, I focus on bridging creativity with security to build digital solutions that truly make an impact.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Skills Overview
+### 🛠 Technical Stack
 
-- Basic web dev
-- Design & Creative
-- Soft Skills
-- Visual & Audio Arts
-- Basic Cybersecurity Knowledge
-- Mobile App Development
-
----
-
-## Goals
-
-My primary objective is to bridge the gap between **innovative design** and security**. I aim to:
-
-* **Develop:** Build seamless, high-performance web and mobile applications that prioritize user experience.
-* **Secure:** Integrate a security-first mindset into every project, ensuring that systems are resilient against vulnerabilities.
-* **Innovate:** Leverage my creative background to solve complex technical problems with elegant, digital solutions.
-* **Grow:** Continuously evolve as a developer by staying at the forefront of emerging technologies and industry best practices.
+| Category        | Skills & Tools                                |
+| :-------------- | :-------------------------------------------- |
+| **Development** | Basic Web Dev, Mobile App Development         |
+| **Design**      | Design & Creative, Visual & Audio Arts        |
+| **Security**    | Basic Cybersecurity Knowledge                 |
+| **Soft Skills** | Problem Solving, Collaboration, Communication |
 
 ---
 
-![Profile](images/21-10891-176.jpg)
+### 🎯 Goals
+
+> My primary objective is to bridge the gap between **innovative design** and **robust security**.
+
+- **Develop:** Build seamless, high-performance web and mobile applications that prioritize user experience.
+- **Secure:** Integrate a security-first mindset into every project, ensuring that systems are resilient against vulnerabilities.
+- **Innovate:** Leverage my creative background to solve complex technical problems with elegant, digital solutions.
+
+---
+
+### 📂 Navigation
+
+[About Me](about.md) | [Projects](pojects.md) | [Reflection](reflection.md)
